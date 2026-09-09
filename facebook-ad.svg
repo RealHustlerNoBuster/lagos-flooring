@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Lagos Flooring Facebook ad template</title>
+  <desc id="desc">Square construction ad with three spaces reserved for real project photos.</desc>
+  <rect width="1080" height="1080" fill="#111315"/>
+  <rect x="0" y="0" width="28" height="1080" fill="#ff5c1a"/>
+  <text x="78" y="92" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">LAGOS <tspan fill="#ff5c1a">FLOORING</tspan></text>
+  <text x="78" y="198" fill="#ffffff" font-family="Arial Narrow, Arial, sans-serif" font-size="86" font-weight="800">YOUR HOME.</text>
+  <text x="78" y="282" fill="#ff5c1a" font-family="Arial Narrow, Arial, sans-serif" font-size="86" font-weight="800">DONE RIGHT.</text>
+  <text x="82" y="336" fill="#bec1c2" font-family="Arial, sans-serif" font-size="23">RESIDENTIAL FLOORING &amp; REMODELING</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="78" y="380" width="452" height="314" fill="#25292b" stroke="#555a5d" stroke-width="3"/>
+    <text x="304" y="526" fill="#ffffff" font-size="25" font-weight="700">ADD PROJECT PHOTO</text><text x="304" y="562" fill="#9ea2a4" font-size="19">Before / after works best</text>
+    <rect x="548" y="380" width="454" height="314" fill="#f3f1ec"/>
+  </g>
+  <text x="586" y="426" fill="#ff5c1a" font-family="Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="2">OUR SERVICES</text>
+  <g fill="#111315" font-family="Arial, sans-serif" font-size="23" font-weight="700">
+    <text x="586" y="476">• Full bathroom remodeling</text>
+    <text x="586" y="520">• Flooring installation</text>
+    <text x="586" y="564">• Doors &amp; cabinets</text>
+    <text x="586" y="608">• Sheetrock walls &amp; repair</text>
+  </g>
+  <text x="586" y="655" fill="#65696c" font-family="Arial, sans-serif" font-size="18">Careful work from start to finish.</text>
+  <rect x="78" y="742" width="924" height="236" fill="#f3f1ec"/>
+  <text x="118" y="808" fill="#ff5c1a" font-family="Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="2">ASK FOR A FREE ESTIMATE</text>
+  <text x="118" y="864" fill="#111315" font-family="Arial, sans-serif" font-size="34" font-weight="800">CALL OR TEXT: (214) 457-9461</text>
+  <text x="118" y="912" fill="#111315" font-family="Arial, sans-serif" font-size="26">lagosderek9@gmail.com</text>
+  <text x="118" y="954" fill="#65696c" font-family="Arial, sans-serif" font-size="22">Based in Garland • Available for projects across Texas</text>
+  <rect x="842" y="786" width="118" height="118" fill="#111315"/>
+  <text x="901" y="859" fill="#ffffff" font-family="Arial, sans-serif" font-size="39" font-weight="800" text-anchor="middle">LF</text>
+</svg>
