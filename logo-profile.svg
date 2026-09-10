@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Lagos Flooring LF logo</title>
+  <desc id="desc">White LF monogram made from flooring plank shapes on black</desc>
+  <rect width="1000" height="1000" fill="#0d0d0d"/>
+  <g fill="#fff">
+    <path d="M204 180h118v468h328v118H204z"/>
+    <path d="M392 180h404v118H510v132h238v112H510v224H392z"/>
+    <rect x="204" y="818" width="190" height="12" opacity=".45"/>
+    <rect x="424" y="818" width="166" height="12" opacity=".45"/>
+    <rect x="620" y="818" width="176" height="12" opacity=".45"/>
+  </g>
+</svg>
