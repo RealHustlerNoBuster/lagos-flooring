@@ -15,7 +15,7 @@
 <body>
   <header class="site-header">
     <a class="brand" href="#top" aria-label="Lagos Flooring home"><img src="logo.svg" alt="Lagos Flooring"></a>
-    <nav aria-label="Main navigation"><a href="#services">Services</a><a href="#work">Our work</a><a href="#process">Process</a><a href="#contact">Contact</a></nav>
+    <nav aria-label="Main navigation"><a href="#services">Services</a><a href="#work">Our work</a><a href="#process">Process</a><a href="#reviews">Reviews</a><a href="#contact">Contact</a></nav>
     <a class="header-cta" href="tel:+12144579461">Free estimate</a>
   </header>
 
@@ -96,6 +96,53 @@
     </section>
 
     <section class="section soft" id="process"><div class="wrap"><div class="section-intro narrow"><p class="kicker">Simple process</p><h2>Start with a free estimate.</h2></div><div class="steps"><div><strong>1</strong><h3>Tell us about the job</h3><p>Call, text, or email with the work you need, your location, and any helpful photos.</p></div><div><strong>2</strong><h3>Get an estimate</h3><p>We’ll discuss the project and provide a free estimate.</p></div><div><strong>3</strong><h3>Plan the work</h3><p>If you’re ready to move forward, we’ll plan the next steps with you.</p></div></div></div></section>
+
+
+    <section class="section reviews-section" id="reviews">
+      <div class="wrap reviews-layout">
+        <div class="reviews-copy">
+          <p class="kicker">Customer feedback</p>
+          <h2>We value your experience.</h2>
+          <p>Had work done by Lagos Flooring? Share your honest experience with our team. We appreciate feedback about your flooring, bathroom, kitchen, doors, or interior project.</p>
+          <div class="reviews-empty">
+            <span class="reviews-empty-icon" aria-hidden="true">“</span>
+            <div>
+              <h3>Real customer reviews belong here.</h3>
+              <p>We’ll feature genuine customer feedback here with the customer's permission. No invented ratings or testimonials.</p>
+            </div>
+          </div>
+        </div>
+        <form class="review-form" id="review-form">
+          <p class="review-form-kicker">Share your experience</p>
+          <h3>Leave a review</h3>
+          <p class="review-form-intro">Complete the fields below to prepare a review email. You'll be able to check it before sending.</p>
+          <div class="review-fields">
+            <label for="review-name">Your name</label>
+            <input type="text" id="review-name" name="name" autocomplete="name" maxlength="80" placeholder="Your name" required>
+            <label for="review-service">Work completed</label>
+            <select id="review-service" name="service" required>
+              <option value="" disabled selected>Select a service</option>
+              <option>Flooring</option><option>Bathroom remodeling</option><option>Doors</option><option>Cabinets & kitchens</option><option>Sheetrock</option><option>Interior finish work</option><option>Other / multiple services</option>
+            </select>
+            <label for="review-rating">Your rating</label>
+            <select id="review-rating" name="rating" required>
+              <option value="" disabled selected>Select your rating</option>
+              <option value="5">★★★★★ — 5 stars</option>
+              <option value="4">★★★★☆ — 4 stars</option>
+              <option value="3">★★★☆☆ — 3 stars</option>
+              <option value="2">★★☆☆☆ — 2 stars</option>
+              <option value="1">★☆☆☆☆ — 1 star</option>
+            </select>
+            <label for="review-message">Your review</label>
+            <textarea id="review-message" name="review" rows="5" maxlength="1800" placeholder="Tell us about the work and your experience..." required></textarea>
+            <label class="review-consent"><input type="checkbox" id="review-consent" required><span>I'm sharing my genuine experience. Please ask my permission before publishing my review.</span></label>
+            <button type="submit" class="review-submit">Prepare review email →</button>
+            <p class="review-status" id="review-status" role="status" aria-live="polite">Your review won't appear on the website automatically.</p>
+            <p class="review-fallback">No email app? Send feedback directly to <a href="mailto:lagosderek9@gmail.com?subject=Lagos%20Flooring%20Review">lagosderek9@gmail.com</a>.</p>
+          </div>
+        </form>
+      </div>
+    </section>
 
     <section class="contact" id="contact"><div class="wrap contact-inner"><div><p class="kicker inverse">Free estimates</p><h2>Let’s talk about your project.</h2><p>Garland based and available for projects across Texas.</p></div><div class="contact-options"><a href="tel:+12144579461"><small>Call or text</small><strong>(214) 457-9461</strong><span>Tap to call →</span></a><a href="mailto:lagosderek9@gmail.com?subject=Free%20Estimate%20Request"><small>Email</small><strong>lagosderek9@gmail.com</strong><span>Send project details →</span></a></div></div></section>
   </main>
